@@ -6,8 +6,10 @@ public class Main {
 		int a=10;
 		int b=20;
 		
-		System.out.println(a+b);
 
+		// 2020. 03. 17일 더하기 수정 김금수
+		int c = a+b;
+		System.out.println(c);
 	}
 
 }
